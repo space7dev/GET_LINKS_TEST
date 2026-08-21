@@ -1,0 +1,6 @@
+/problem5/node_modules
+/problem5/data
+/problem5/dist
+/problem5/.env
+config.bat
+node_modules
